@@ -1,0 +1,228 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+}
+
+h1{
+    margin-left: 500px;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+#box1 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 104px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box2 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 104px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box3 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 88px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box4 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 45px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box5 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 34px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box6 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 97px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box7 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 73px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box8 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 78px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box9 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 78px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box10 h5{
+    /* color: black; */
+    color: #4CAF50;
+    margin-left: 64px;
+    margin-top: 173px;
+    text-transform: uppercase;
+}
+
+#box1{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/C.gif);
+    /* background-image: url(images/C1.gif); */
+    /* background-image: url(images/C2.gif); */
+    /* background-image: url(images/C3.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box2{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    /* background-image: url(images/Cpp.gif); */
+    background-image: url(images/Cpp1.gif);
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box3{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    /* background-image: url(images/python.gif); */
+    /* background-image: url(images/python1.gif); */
+    background-image: url(images/python2.gif);
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box4{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/webdevelopment.gif);
+    /* background-image: url(images/webdevlopment1.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box5{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    /* background-image: url(images/mobiledevelopment.gif); */
+    /* background-image: url(images/Mobile-App-develompent1.jpg); */
+    /* background-image: url(images/mobiledevelopment2.gif); */
+    background-image: url(images/mobiledev3.gif);
+    /* background-image: url(images/mobiledev4.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box6{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/java.gif);
+    /* background-image: url(images/java1.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box7{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/javascript.gif);
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box8{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/testing.gif);
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box9{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/database.gif);
+    /* background-image: url(images/Database1.gif); */
+    /* background-image: url(images/database2.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}
+
+#box10{
+    height: 201px;
+    width: 218px;
+    border: 4px solid black;
+    border-radius: 26px;
+    /* background-color: rgb(8, 170, 240); */
+    margin: 20px;
+    background-image: url(images/datascience.gif);
+    /* background-image: url(images/datascience1.gif); */
+    background-size: 220px 160px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+}
+
+/* .img{
+    height: 99vh;
+} */
+
+img{
+    height: 95vh;
+    /* width: 700px; */
+    margin-top: 4px;
+    margin-left: 130px;
+}
+
+.arucode{
+    float: right;
+    /* margin-left: 181px; */
+    margin-left: 160px;
+    margin-top: 80px;
+}
+
